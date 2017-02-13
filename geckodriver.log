@@ -1,0 +1,161 @@
+1484415469928	geckodriver	INFO	Listening on 127.0.0.1:43507
+1484415469962	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.VyhN17Aa5KvI
+1484415469963	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1484415469995	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44124
+1484415472423	Marionette	INFO	Listening on port 44124
+
+(firefox:16902): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16902): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16902): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16902): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16902): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16902): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb740' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb7e0' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb7e0' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb7e0' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb7e0' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb7e0' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb7e0' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb7e0' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb7e0' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb7e0' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb7e0' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb7e0' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb7e0' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb7e0' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb7e0' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb7e0' of type 'MaiAtkType139'
+
+(firefox:16902): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7ff6cc3fb7e0' of type 'MaiAtkType139'
